@@ -1,5 +1,5 @@
-project(git_tutorial)
 cmake_minimum_required(VERSION 3.4 FATAL_ERROR)
+project(git_tutorial)
 
 set(CMAKE_BUILD_TYPE Debug)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../bin)
