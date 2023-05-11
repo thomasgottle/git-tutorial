@@ -2,3 +2,5 @@ build/
 bin/
 is_proud_of_you.jpg
 YOUR_NEXT_INSTRUCTIONS.md
+doc/html
+doc/latex
